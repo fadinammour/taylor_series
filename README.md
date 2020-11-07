@@ -1,5 +1,5 @@
 # Taylor Series
-Interactive example using Sympy on Taylor series. Press on the following icon to run the notebook online.
+Interactive example using Sympy on Taylor series. Press on the following icon to run the notebook online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fadinammour/taylor_series.git/HEAD).
 
 ## Requirements
 To run the book you will need the following packages.
