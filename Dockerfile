@@ -1,4 +1,4 @@
-FROM rivii/sympy-jupyter
+FROM jupyter/scipy-notebook
 
 LABEL Description="Taylor Expansion"
 
